@@ -1,0 +1,34 @@
+_repo: The-Camerons-of-Highboro_30479
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ward, Phillipps
+    gutenberg_agent_id: '34634'
+    url: http://www.gutenberg.org/2009/agents/34634
+covers:
+- cover_type: archival
+  image_path: 30479-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gilchrist, Beth Bradford
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '34633'
+    url: http://www.gutenberg.org/2009/agents/34633
+description: ''
+gutenberg_issued: '2009-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30479'
+  lccn: '19014349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- United States -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+title: The Camerons of Highboro
+url: http://www.gutenberg.org/ebooks/30479
